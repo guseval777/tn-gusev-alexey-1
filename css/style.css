@@ -1,0 +1,130 @@
+/* * {
+    
+} */
+
+/* BANNER */
+
+.banner-title {
+    font-weight: bold;
+    width: 307px;
+    font-size: 40px;
+    line-height: 110%;
+    color: #1E0606;
+}
+
+.banner-designed {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #1E0606;
+}
+
+.banner-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    /* color: #FFFFFF; */
+}
+
+.button-explore-now {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 161px;
+    height: 40px;
+    left: 243px;
+    top: 474px;
+    display: block;
+    text-align: center;
+    align-items: center;
+    padding: 9px 22px;
+    border: none;
+    background: #000000;
+    
+}
+
+.service-title {
+    font-weight: bold;
+    width: 454px;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.advertising-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;  
+}
+
+.about-title {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+/* ABOUT */
+
+/* .about-title {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+} */
+
+.button-learn-more {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 149px;
+    height: 40px;
+    left: 710px;
+    top: 1705px;
+    display: block;
+    text-align: center;
+    align-items: center;
+    padding: 9px 22px;
+    border: none;
+    background: #000000;
+}
+
+.button-buy-now {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 123px;
+    height: 40px;
+    left: 140px;
+    top: 2230px;
+    display: block;
+    text-align: center;
+    align-items: center;
+    padding: 9px 22px;
+    border: none;
+    background: #000000;
+}
+
